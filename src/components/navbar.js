@@ -1,10 +1,11 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
-    <div>
-      <ul className="navbar">
+    <div className="navbar">
+      <Link to='/' className='logo'> __KMA__ </Link>
+      <ul className='navbar-list' >
         <li>
           <NavLink to="/" className='nav-item'>
             Home
