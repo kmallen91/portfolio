@@ -1,8 +1,10 @@
 import React from "react";
+import { Route } from 'react-router-dom'
 
 // Components
 import Navbar from "./components/navbar";
 import Homepage from './components/homepage'
+import About from './components/about'
 
 // Styles
 import "./App.css";
@@ -12,8 +14,9 @@ import './styles/homepage.css'
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Homepage />
+      <Route path='/' component={ Navbar } />
+      <Route exact path='/' component={ Homepage } />
+      <Route exact path='/about' component= { About } />
     </div>
   );
 }

@@ -12,13 +12,13 @@ export default function Navbar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/projects/" className='nav-item'>
-            Current Projects
+          <NavLink to="/about" className='nav-item'>
+            About
           </NavLink>
         </li>
         <li>
-          <NavLink to="/about" className='nav-item'>
-            Compare
+          <NavLink to="/projects" className='nav-item'>
+            Projects
           </NavLink>
         </li>
       </ul>
