@@ -5,19 +5,18 @@ export default function Navbar() {
   return (
     <div>
       <ul className="navbar">
-        <li>Sign Out</li>
         <li>
-          <NavLink to="/" activeClassName="activeNavButton">
+          <NavLink to="/" className='nav-item'>
             Home
           </NavLink>
         </li>
         <li>
-          <NavLink to="/projects/" activeClassName="activeNavButton">
+          <NavLink to="/projects/" className='nav-item'>
             Current Projects
           </NavLink>
         </li>
         <li>
-          <NavLink to="/about" activeClassName="activeNavButton">
+          <NavLink to="/about" className='nav-item'>
             Compare
           </NavLink>
         </li>
