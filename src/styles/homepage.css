@@ -4,6 +4,12 @@
 
 .description {
     font-size: 2rem;
-    padding-top: 5rem;
+    padding-top: 10rem;
     text-align: center;
+}
+
+.icon{
+    padding: 2rem;
+    height: 3rem;
+    width: 3rem;
 }

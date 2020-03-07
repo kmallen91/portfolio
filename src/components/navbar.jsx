@@ -7,11 +7,6 @@ export default function Navbar() {
       <Link to='/' className='logo'> __KMA__ </Link>
       <ul className='navbar-list' >
         <li>
-          <NavLink to="/" className='nav-item'>
-            Home
-          </NavLink>
-        </li>
-        <li>
           <NavLink to="/about" className='nav-item'>
             About
           </NavLink>
