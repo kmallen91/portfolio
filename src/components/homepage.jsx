@@ -7,7 +7,7 @@ export default function Homepage() {
     return (
         <div className='homepage-container'>
             <div className='description'>
-                Kevin Allen <br/>
+                Kevin Michael Allen <br/>
                 Software Engineer
             </div>
             <div className='homepage-icons'>
