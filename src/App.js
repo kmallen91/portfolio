@@ -10,6 +10,7 @@ import About from './components/about'
 import "./App.css";
 import './styles/navbar.css'
 import './styles/homepage.css'
+import './styles/about.css'
 
 function App() {
   return (
