@@ -1,0 +1,28 @@
+.project-title{
+    font-size: 1.5rem;
+    padding-bottom: 2rem;
+}
+.project{
+    text-align: left;
+    padding: 1rem;
+}
+
+.project-link {
+    color: rgb(39, 48, 173);
+    font-size: 1.3rem;
+    text-decoration: none;
+    padding-left: 8rem;
+}
+
+a:visited {
+    color: rgb(39, 48, 173);
+}
+
+small {
+    padding-left: 8rem;
+}
+
+.project-2{
+    text-align: left;
+}
+
