@@ -5,6 +5,8 @@ import { Route } from 'react-router-dom'
 import Navbar from "./components/navbar";
 import Homepage from './components/homepage'
 import About from './components/about'
+import Projects from './components/projects'
+
 
 // Styles
 import "./App.css";
@@ -18,6 +20,7 @@ function App() {
       <Route path='/' component={ Navbar } />
       <Route exact path='/' component={ Homepage } />
       <Route exact path='/about' component= { About } />
+      <Route exact path='/projects' component= { Projects } />
     </div>
   );
 }
