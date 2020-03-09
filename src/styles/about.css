@@ -1,12 +1,14 @@
 .about-container {
     margin: 0 auto;
     width: 90vw;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     padding-top: 5rem;
     text-align: center;
 }
 
-p {
+.about-text {
+    text-align: left;
     width: 70vw;
+    padding-top: 3rem;
     padding-left: 8rem;
 }

@@ -26,3 +26,8 @@ small {
     text-align: left;
 }
 
+.project-text{
+    text-align: left;
+    padding-left: 8rem;
+    width: 70vw;
+}
