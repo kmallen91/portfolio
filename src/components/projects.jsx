@@ -25,7 +25,7 @@ export default function Projects() {
                     <p className='project-text'>
                     Web game created in 4 days in collaboration with 3 other web developers to practice Python with Django. Players can select a planet to land on and explore, whlie discovering different sections throughout. <br/>
                     Responsible for creating front end components in order to display database algorithms and create a moveable player-character as well as unique environments for each planet. <br/>
-                    Stack:  React, Python, Django, Canvas
+                    Stack:  React, Python, Django, PostgreSQL, Canvas
                     </p>
 
             </div>
