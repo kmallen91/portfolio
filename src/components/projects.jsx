@@ -18,7 +18,7 @@ export default function Projects() {
                 
             </div>
             <div className='project'>
-                <a href='https://www.space-cowboys.netlify.com' className='project-link'> Space Cowboy</a>
+                <a href='https://space-cowboys.netlify.com' className='project-link'> Space Cowboy</a>
                 <a href='https://github.com/python-django-unchained' className='project-link'> Github</a>
                     <br/>
                     <small>Full Stack Collaboration</small>
