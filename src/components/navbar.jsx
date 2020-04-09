@@ -16,6 +16,11 @@ export default function Navbar() {
             Projects
           </NavLink>
         </li>
+        <li>
+          <NavLink to="/contact" className='nav-item'>
+            Contact
+          </NavLink>
+        </li>
       </ul>
     </div>
   );

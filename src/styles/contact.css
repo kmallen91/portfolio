@@ -1,0 +1,38 @@
+.contact-form {
+    max-width: 20rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+  }
+  
+  .contact-form > :not(:last-child) {
+    padding-bottom: 1rem;
+  }
+  
+  .contact-form .form-field {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-form .label-content {
+    padding-bottom: 0.5rem;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .contact-form label {
+    text-align: left;
+  }
+
+  .contact-form .form-button{
+      padding: 0.25rem;
+      font-size: 1.2rem;
+      width: 10rem;
+
+  }
