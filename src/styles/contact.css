@@ -17,6 +17,7 @@
   
   .contact-form .label-content {
     padding-bottom: 0.5rem;
+    color: rgb(5, 15, 152);
   }
   
   .contact-form input, .contact-form textarea {
@@ -34,5 +35,6 @@
       padding: 0.25rem;
       font-size: 1.2rem;
       width: 10rem;
+      color: rgb(5, 15, 152);
 
   }

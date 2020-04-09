@@ -8,7 +8,7 @@ export default function Homepage() {
             <div className='description'>
             <h1> Kevin Michael Allen </h1>
              <h2> Software Engineer </h2>
-             <h3>kevin.allen91@gmail.com</h3>
+             {/* <h3>kevin.allen91@gmail.com</h3> */}
                
             </div>
             <div className='homepage-icons'>

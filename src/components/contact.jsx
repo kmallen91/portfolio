@@ -4,7 +4,7 @@ import React from 'react'
 const ContactForm = () => (
   <form name = 'contact' className="contact-form" method='post'>
 
-    <input type="hidden" name="form-name" value="contact" />
+    <input type="hidden" name="form-name" value="contact-form" />
 
     <div className="form-field">
       <label htmlFor="name">
