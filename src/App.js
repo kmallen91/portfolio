@@ -6,7 +6,7 @@ import Navbar from "./components/navbar";
 import Homepage from './components/homepage'
 import About from './components/about'
 import Projects from './components/projects'
-import ContactForm from "./components/contact";
+// import ContactForm from "./components/contact";
 
 // Styles
 import "./App.css";
@@ -23,7 +23,6 @@ function App() {
       <Route exact path='/' component={ Homepage } />
       <Route exact path='/about' component= { About } />
       <Route exact path='/projects' component= { Projects } />
-      <Route exact path='/contact' component= { ContactForm } />
     </div>
   );
 }

@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const ContactForm = () => (
+const ContactForm = (props) => (
   <form name = 'contact' className="contact-form" method='post'>
 
     <input type="hidden" name="form-name" value="contact-form" />
@@ -27,7 +27,7 @@ const ContactForm = () => (
       </label>
     </div>
 
-    <button className='form-button' type="submit">Send</button>
+    <button className='form-button' type="submit" >Send</button>
 
     <div>
       { window.location.hash === '#success' &&
