@@ -19,3 +19,14 @@
     padding-top: 3rem;
     padding-left: 8rem;
 }
+.about-text-2 {
+    text-align: left;
+    width: 70vw;
+    padding-top: 3rem;
+    padding-left: 8rem;
+    padding-bottom: 5rem;
+}
+.about-project-link{
+    text-decoration: none;
+    text-align: left;
+}
