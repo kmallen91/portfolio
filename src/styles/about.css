@@ -19,27 +19,3 @@
     padding-top: 3rem;
     padding-left: 8rem;
 }
-.contact-title {
-    text-align: left;
-    width: 70vw;
-    padding-top: 3rem;
-    padding-left: 8rem;
-}
-.email-title {
-    text-align: left;
-    width: 70vw;
-    padding-left: 8rem;
-}
-
-.contact-text {
-    text-align: left;
-    width: 70vw;
-    padding-right: 20rem;
-    padding-bottom:3rem;
-}
-.email-text {
-    text-align: left;
-    width: 70vw;
-    padding-right: 34rem;
-    padding-bottom:3rem;
-}
