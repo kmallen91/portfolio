@@ -4,7 +4,7 @@ export default function Projects() {
 
     return (
         <div className='project-container'>
-            <h3 className='project-title'> Projects </h3>
+            <h2 className='project-title'> Projects </h2>
             <div className='project'>
                 <a href='https://www.wildfirewatchapp.com' className='project-link'> Wildfire Watch</a>
                 <a href='https://github.com/Lambda-School-Labs/forest-fire-watch-fe' className='project-link'> Github</a>
