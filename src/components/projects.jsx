@@ -30,15 +30,16 @@ export default function Projects() {
 
             </div>
             <div className='project'>
-                <a href='https://dev-libs.now.sh/' className='project-link'> Dev-Libs </a>
-                    <a href='https://github.com/bw-ft-Dev-Libs/Front-End' className='project-link'> Github</a>
+                <a href='https://baseball-stats.netlify.app/' className='project-link'> Baseball Stats </a>
+                    <a href='https://github.com/kmallen91/baseball-site' className='project-link'> Github</a>
                         <br/>
-                        <small>Front End Developer</small>
+                        <small>Full Stack Developer</small>
                         <p className='project-text'>
-                        A web application that allows a user to create their own developer style mad-libs and update them on their profile page.                   
-                        4 day project with 2 other front end developers and a back end developer. <br/>
-                        Responsible for creating the front end interface to display the data created by users as well as those saved in the database. <br/>
-                        Stack:  React
+                        Continuous personal project displaying MLB teams and players statistics
+                        Displaying current MLB teams and active players and their statistics, with future implementation to compare teams and player stats.
+                        Responsible for creating the front end interface to display the data as well as logic to sift through API data. Future plans to implement a back end database in Java.
+                         <br/>
+                         Stack: React, Java
                         </p>
             </div>
 
