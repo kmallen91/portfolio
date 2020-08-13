@@ -43,6 +43,20 @@ export default function Projects() {
                         </p>
             </div>
 
+            <div className='project'>
+                <a href='https://js-pong.netlify.app/' className='project-link'> Pong Game </a>
+                    <a href='https://github.com/kmallen91/pong-game' className='project-link'> Github</a>
+                        <br/>
+                        <small>Javascript Developer</small>
+                        <p className='project-text'>
+                        Recreation of the original video game, Pong in Javascript. 
+                        Project created in order to practice Javascript skills and to recreate one of my favorite old-school video games
+                        
+                         <br/>
+                         Stack: Javascript, HTML
+                        </p>
+            </div>
+            
         </div>
     )
 }
