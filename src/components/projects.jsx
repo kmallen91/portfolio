@@ -21,7 +21,7 @@ export default function Projects() {
                 <a href='https://space-cowboys.netlify.com' className='project-link'> Space Cowboy</a>
                 <a href='https://github.com/python-django-unchained' className='project-link'> Github</a>
                     <br/>
-                    <small>Full Stack Collaboration</small>
+                    <small>Full Stack Collaboration / Front End Engineer </small>
                     <p className='project-text'>
                     Web game created in 4 days in collaboration with 3 other web developers to practice Python with Django. Players can select a planet to land on and explore, whlie discovering different sections throughout. <br/>
                     Responsible for creating front end components in order to display database algorithms and create a moveable player-character as well as unique environments for each planet. <br/>
