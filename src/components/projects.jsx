@@ -11,7 +11,7 @@ export default function Projects() {
                 <br/>
                 <small>Capstone Project - Lambda School</small>
                 <p className='project-text'>
-                Web application development over two months with 3 other web developers and a data science team that shows the current wildfires within the United States and allows a logged in user to save locations in order get text alerts if there is a wildfire within their given radius. 
+                Web application development over three months with 3 other web developers and a data science team that shows the current wildfires within the United States and allows a logged in user to save locations in order get text alerts if there is a wildfire within their given radius. 
                 Also allows users to toggle an air quality overlay to display the air quality information throughout the United States. <br/>
                 Responsible for creating front end components and back end databases to save and display data from users and the data science team. Also built the mapbox overlay to connect our data science team's air quality data to our application's map. <br/>
                 Stack:  React, Node, PostgreSQL, Jest, Heroku, Mapbox, SASS
