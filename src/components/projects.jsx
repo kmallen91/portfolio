@@ -13,7 +13,7 @@ export default function Projects() {
                 <p className='project-text'>
                 Web application development over two months with 3 other web developers and a data science team that shows the current wildfires within the United States and allows a logged in user to save locations and get text alerts if there is a wildfire within their given radius. Also allows users to toggle an air quality overlay to display the air quality information throughout the United States. <br/>
                 Responsible for creating front end components and back end databases to save and display data from users and the data science team. Also built the mapbox overlay to connect our data science team's air quality data to our application's map. <br/>
-                Stack:  React, Node, PostgreSQL, Jest, Heroku, Mapbox
+                Stack:  React, Node, PostgreSQL, Jest, Heroku, Mapbox, SASS
                 </p>
                 
             </div>
@@ -25,7 +25,7 @@ export default function Projects() {
                     <p className='project-text'>
                     Web game created in 4 days in collaboration with 3 other web developers to practice Python with Django. Players can select a planet to land on and explore, whlie discovering different sections throughout. <br/>
                     Responsible for creating front end components in order to display database algorithms and create a moveable player-character as well as unique environments for each planet. <br/>
-                    Stack:  React, Python, Django, PostgreSQL, Canvas
+                    Stack: React, Python, Django, PostgreSQL, Canvas, SASS
                     </p>
 
             </div>
